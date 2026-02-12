@@ -1,0 +1,10 @@
+p {
+    border: red solid 10px;
+    
+}
+.conteudo{
+    border: blue solid 10px;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    margin-left: 80px;
+}

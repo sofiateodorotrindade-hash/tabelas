@@ -1,0 +1,30 @@
+body {
+    background-color: darkorange;
+}
+h1 {
+    color: darkgreen;
+    border-style: groove;
+    border-color: darkmagenta;
+
+}
+
+ul {
+    background-color: hotpink;
+    font-size: 50px;
+    color: aliceblue;
+}
+.carro{
+    color: deeppink;
+}
+#cabecalho {
+    background-color: blue;
+}
+.planetas h1{
+    font-size: 50px;
+    color: blue;
+}
+.planetas ul li {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
